@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "the longest valid parenthesis", "the longest valid parenthesis\the longest valid parenthesis.vcxproj", "{69715824-B8EB-4F86-BE89-44B50D198461}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gas station", "gas station\gas station.vcxproj", "{AA053212-CB8E-48F3-B261-ED690CDC0F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69715824-B8EB-4F86-BE89-44B50D198461}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69715824-B8EB-4F86-BE89-44B50D198461}.Debug|Win32.Build.0 = Debug|Win32
+		{69715824-B8EB-4F86-BE89-44B50D198461}.Release|Win32.ActiveCfg = Release|Win32
+		{69715824-B8EB-4F86-BE89-44B50D198461}.Release|Win32.Build.0 = Release|Win32
+		{AA053212-CB8E-48F3-B261-ED690CDC0F9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA053212-CB8E-48F3-B261-ED690CDC0F9A}.Debug|Win32.Build.0 = Debug|Win32
+		{AA053212-CB8E-48F3-B261-ED690CDC0F9A}.Release|Win32.ActiveCfg = Release|Win32
+		{AA053212-CB8E-48F3-B261-ED690CDC0F9A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
